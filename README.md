@@ -17,6 +17,13 @@
 - [Steve McConnell](#steve-mcconnell)
 - [Tony Hoare](#tony-hoare)
 
+## Contribution Guidelines
+There's no restriction to contribution at all. The only things that we should point out is:
+- Before submit your pull request, make sure of the authenticity of quote that you are adding.
+- Try to respect our README.md template.
+- If you have any question, you can use our Issue Page.
+
+## Quotes
 | Quote | Author |
 |:-:|:-:|
 | “Raise your quality standards as high as you can live with, avoid wasting your time on routine problems, and always try to work as closely as possible at the boundary of your abilities. Do this, because it is the only way of discovering how that boundary should be moved foward.” | <div id="edsger-dijkstra"></div> [![Edsger Dijkstra](images/edsger_dijkstra.jpg)](https://en.wikipedia.org/wiki/Edsger_W._Dijkstra) <br> Edsger Wybe Dijkstra (Computer scientist and an early pioneer in many research areas of computing science. Turing Award Winner) |
