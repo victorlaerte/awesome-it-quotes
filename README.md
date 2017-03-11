@@ -26,3 +26,21 @@
 | “Great things in business are never done by one person. They're done by a team of people.” <br><br> “Innovation distinguishes between a leader and a follower.” <br><br> “Technology is nothing. What's important is that you have a faith in people, that they're basically good and smart, and if you give them tools, they'll do wonderful things with them.”| <div id="steve-jobs"></div> [![Steve Jobs](images/steve_jobs.jpg)](https://en.wikipedia.org/wiki/Steve_Jobs) <br> Steve Jobs (Former co-founder, chairman, and chief executive officer (CEO) of Apple Inc) |
 | “Good code is its own best documentation. As you’re about to add a comment, ask yourself, ‘How can I improve the code so that this comment isn’t needed?'” | <div id="steve-mcconnell"></div> [![Steve McConnell](images/steve_mcconnell.jpg)](https://en.wikipedia.org/wiki/Steve_McConnell) <br> Steve McConnell (author of many software engineering books including “Code Complete”) |
 | “There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.” | <div id="tony-hoare"></div> [![Tony Hoare](images/tony_hoare.jpg)](https://en.wikipedia.org/wiki/Tony_Hoare) <br> Tony Hoare (British computer scientist, winner of the 1980 Turing Award) |
+
+<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+  <a rel="license"
+     href="http://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+  </a>
+  <br />
+  To the extent possible under law,
+  <a rel="dct:publisher"
+     href="https://github.com/victorlaerte/awesome-it-quotes">
+    <span property="dct:title">Victor Laerte de Oliveira</span></a>
+  has waived all copyright and related or neighboring rights to
+  <span property="dct:title">Awesome IT Quptes</span>.
+This work is published from:
+<span property="vcard:Country" datatype="dct:ISO3166"
+      content="US" about="https://github.com/victorlaerte/awesome-it-quotes">
+  United States</span>.
+</p>
