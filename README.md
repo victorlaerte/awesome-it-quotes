@@ -82,7 +82,7 @@ There's no restriction to contribution at all. The only guidelines that we shoul
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
      href="http://creativecommons.org/publicdomain/zero/1.0/">
-    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+    <img src="https://mirrors.creativecommons.org/presskit/buttons/80x15/svg/cc-zero.svg" style="border-style: none;" alt="CC0" />
   </a>
   <br />
   To the extent possible under law,
