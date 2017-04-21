@@ -3,7 +3,7 @@
 <h3 align="center">
 	<img width="200" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
 	<br>
-    This is an list of awesome IT quotes. The aims is to get together all relevant quotes said over the history of IT.
+    This is a list of awesome IT quotes. The aim is to collect all relevant quotes said over the history of IT.
 </h3>
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -40,10 +40,10 @@
 - [Vidiu Platon](#vidiu-platon)
 
 ## Contribution Guidelines
-There's no restriction to contribution at all. The only things that we should point out is:
-- Before submit your pull request, make sure of the authenticity of quote that you are adding.
-- Try to respect our README.md template.
-- If you have any question, you can use our Issue Page.
+There's no restriction to contribution at all. The only guidelines that we should point out are:
+- Before submitting your pull request, make sure of the authenticity of quote that you are adding.
+- Try to respect our README.md's template.
+- If you have any question, you can use our Issues' page.
 
 ## Quotes
 | Quote | Author |
