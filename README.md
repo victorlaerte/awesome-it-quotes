@@ -1,11 +1,5 @@
 # awesome-it-quotes
 
-<h3 align="center">
-	<img width="200" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="awesome">
-	<br>
-    This is a list of awesome IT quotes. The aim is to collect all relevant quotes said over the history of IT.
-</h3>
-
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## Contents
