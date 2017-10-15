@@ -4,6 +4,7 @@ This is a list of awesome IT quotes. The aim is to collect all relevant quotes s
 
 ## Contents
 - [Alan Kay](#alan-kay)
+- [Alan Turing](#alan-turing)
 - [Albert Einstein](#albert-einstein)
 - [Arthur C. Clarke](#arthur-c-clarke)
 - [Bill Gates](#bill-gates)
@@ -41,6 +42,7 @@ Contribution guidelines can be found [here](CONTRIBUTING.md)
 | Quote | Author |
 |:-:|:-:|
 | “Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.” <br><br> “Technology is anything that wasn’t around when you were born.” | <div id="alan-kay"></div> [![Alan Kay](images/alan_kay.jpg)](https://en.wikipedia.org/wiki/Alan_Kay) <br> Alan Kay (Computer Scientist, pioneering work on object-oriented programming) |
+| “A computer would deserve to be called intelligent if it could deceive a human into believing that it was human.” <br><br> “Machines take me by surprise with great frequency.” <br><br> “We can only see a short distance ahead, but we can see plenty there that needs to be done.” | <div id="alan-turing"></div> [![Alan Turing](images/alan_turing.jpg)](https://en.wikipedia.org/wiki/Alan_Turing) <br> Alan Turing (Computer Scientist, widely considered to be the father of theoretical computer science and artificial intelligence) |
 | “It has become appallingly obvious that our technology has exceeded our humanity.” | <div id="albert-einstein"></div> [![Albert Einstein](images/albert_einstein.jpg)](https://en.wikipedia.org/wiki/Albert_Einstein) <br> Albert Einstein (Scientist theoretical physicist) |
 | “Any sufficiently advanced technology is equivalent to magic.” | <div id="arthur-c-clarke"></div> [![Arthur C. Clarke](images/arthur_c_clarke.jpg)](https://en.wikipedia.org/wiki/Arthur_C._Clarke) <br> Arthur C. Clarke (Science writer, futurist and inventor) |
 | “Measuring programming progress by lines of code is like measuring aircraft building progress by weight.” | <div id="bill-gates"></div> [![Bill Gates](images/bill_gates.jpg)](https://en.wikipedia.org/wiki/Bill_Gates) <br> Bill Gates (American business magnate, investor, author, philanthropist and founder of Microsoft |
