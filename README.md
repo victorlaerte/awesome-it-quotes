@@ -34,6 +34,7 @@ This is a list of awesome IT quotes. The aim is to collect all relevant quotes s
 - [Sydney Harris](#sydney-harris)
 - [Tony Hoare](#tony-hoare)
 - [Vidiu Platon](#vidiu-platon)
+- [Elon Musk](#elon-musk)
 
 ## Contribution Guidelines
 Contribution guidelines can be found [here](CONTRIBUTING.md)
@@ -72,6 +73,7 @@ Contribution guidelines can be found [here](CONTRIBUTING.md)
 | “The real danger is not that computers will begin to think like men, but that men will begin to think like computers.” | <div id="sydney-harris"></div> [![Sydney Harris](images/sydney_harris.jpg)](https://en.wikipedia.org/wiki/Sydney_J._Harris) <br> Sydney Harris (Journalist for the Chicago Daily News and, later, the Chicago Sun-Times) |
 | “There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.” | <div id="tony-hoare"></div> [![Tony Hoare](images/tony_hoare.jpg)](https://en.wikipedia.org/wiki/Tony_Hoare) <br> Tony Hoare (British computer scientist, winner of the 1980 Turing Award) |
 | “I don't care if it works on your machine! We are not shipping your machine!” | <div id="vidiu-platon"></div> [![Vidiu Platon](images/unknow.jpg)](https://gl.wikiquote.org/wiki/Vidiu_Platon) <br> Vidiu Platon |
+| “Failure is an option here. If things are not failing, you are not innovating enough.” | <div id="elon-musk"></div> [![Elon Musk](images/elon_musk.jpg)](https://en.wikipedia.org/wiki/Elon_Musk) <br> Elon Musk (Business magnate, investor, engineer, and inventor.) |
 
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
