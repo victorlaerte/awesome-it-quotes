@@ -16,6 +16,7 @@ This is a list of awesome IT quotes. The aim is to collect all relevant quotes s
 - [Edward V. Berard](#edward-v-berard)
 - [Elbert Hubbard](#elbert-hubbard)
 - [Elon Musk](#elon-musk)
+- [Grace Hopper](#grace_hopper)
 - [Harold Abelson](#harold-abelson)
 - [Jeff Pesis](#jeff-pesis)
 - [John Cleese](#john-cleese)
@@ -56,6 +57,7 @@ Contribution guidelines can be found [here](CONTRIBUTING.md)
 | “Walking on water and developing software from a specification are easy if both are frozen.” | <div id="edward-v-berard"></div> [![Edward V. Berard](images/unknow.jpg)](https://en.wikiquote.org/wiki/Edward_V._Berard) <br> Edward V. Berard is an American software engineer and consultant for The Object Agency, Inc. |
 | “One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.” | <div id="elbert-hubbard"></div> [![Elbert Hubbard](images/elbert_hubbard.jpg)](https://en.wikipedia.org/wiki/Elbert_Hubbard) <br> Elbert Hubbard (writer, publisher, artist, and philosopher) |
 “Failure is an option here. If things are not failing, you are not innovating enough.” | <div id="elon-musk"></div> [![Elon Musk](images/elon_musk.jpg)](https://en.wikipedia.org/wiki/Elon_Musk) <br> Elon Musk (Business magnate, investor, engineer, and inventor.) |
+“If it's a good idea, go ahead and do it. It's much easier to apologize than it is to get permission.” | <div id="grace_hopper"></div> [![Grace Hopper](images/grace_hopper.jpg)](https://en.wikipedia.org/wiki/Grace_Hopper) <br> Grace Hopper (American computer scientist, a pioneer of computer programming who invented one of the first compilers. She popularized the idea of machine-independent programming languages, which led to the development of COBOL.) |
 | “Programs must be written for people to read, and only incidentally for machines to execute.” | <div id="harold-abelson"></div> [![Harold Abelson](images/harold_abelson.jpg)](https://en.wikipedia.org/wiki/Hal_Abelson) <br> Harold Abelson (Professor of Electrical Engineering and Computer Science at MIT, a fellow of the IEEE, and a founding director of both Creative Commons and the Free Software Foundation) |
 | “Hardware: the parts of a computer that can be kicked.” | <div id="jeff-pesis"></div> [![Jeff Pesis](images/unknow.jpg)]() <br> Jeff Pesis |
 | “Technology frightens me to death. It’s designed by engineers to impress other engineers. And they always come with instruction booklets that are written by engineers for other engineers — which is why almost no technology ever works.” | <div id="john-cleese"></div> [![John Cleese](images/john_cleese.jpg)](https://en.wikipedia.org/wiki/John_Cleese) <br> John Cleese (actor, voice actor, screenwriter, producer, and comedian) |
