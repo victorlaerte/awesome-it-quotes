@@ -31,7 +31,7 @@ This is a list of awesome IT quotes. The aim is to collect all relevant quotes s
 - [Omar Bradley](#omar-bradley)
 - [Pablo Picasso](#pablo-picasso)
 - [Peter Deutsch](#peter-deutsch)
-- [Richard Stallmank](#richard-stallman)
+- [Richard Stallman](#richard-stallman)
 - [Rick Cook](#rick-cook)
 - [Steve Jobs](#steve-jobs)
 - [Steve McConnell](#steve-mcconnell)
