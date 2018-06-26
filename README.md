@@ -92,7 +92,7 @@ Contribution guidelines can be found [here](CONTRIBUTING.md)
      href="https://github.com/victorlaerte/awesome-it-quotes">
     <span property="dct:title">Victor Laerte de Oliveira</span></a>
   has waived all copyright and related or neighboring rights to
-  <span property="dct:title">Awesome IT Quptes</span>.
+  <span property="dct:title">Awesome IT Quotes</span>.
 This work is published from:
 <span property="vcard:Country" datatype="dct:ISO3166"
       content="US" about="https://github.com/victorlaerte/awesome-it-quotes">
