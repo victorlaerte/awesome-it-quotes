@@ -2,3 +2,7 @@
   "line-length": false,
   "no-inline-html": false
 }
+img[alt=drawing] 
+{
+  width: 200px; 
+}
